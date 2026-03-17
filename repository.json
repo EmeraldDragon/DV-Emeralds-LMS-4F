@@ -3,7 +3,13 @@
     {
       "Id": "em_fowler_4f",
       "Version": "1.0.0",
-      "DownloadUrl": ""
+      "DownloadUrl": "https://github.com/EmeraldDragon/DV-Emeralds-LMS-4F/releases/tag/4F"
+    },
+    {
+      "Id": "em_fowler_4f",
+      "Version": "1.0.1",
+      "DownloadUrl": "https://github.com/EmeraldDragon/DV-Emeralds-LMS-4F/releases/tag/4fpatch1"
     }
+  ]
   ]
 }
