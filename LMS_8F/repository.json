@@ -1,0 +1,25 @@
+{
+  "Releases": [
+    {
+      "Id": "em_lms_8f_loc",
+      "Version": "1.2.0",
+      "DownloadUrl": ""
+    },
+    {
+      "Id": "em_lms_8f_loc",
+      "Version": "1.1.0",
+      "DownloadUrl": ""
+    },
+    {
+      "Id": "em_lms_8f_loc",
+      "Version": "1.0.1",
+      "DownloadUrl": ""
+    },
+    {
+      "Id": "em_lms_8f_loc",
+      "Version": "1.0.0",
+      "DownloadUrl": ""
+    }
+  ]
+  
+}
