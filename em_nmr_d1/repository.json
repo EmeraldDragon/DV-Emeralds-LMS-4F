@@ -4,7 +4,12 @@
       "Id": "em_nmr_d1",
       "Version": "1.0.0",
       "DownloadUrl": "https://github.com/EmeraldDragon/DV-Emeralds-LMS-4F/releases/tag/NMR_D1_1,0,0"
-    }
+    },
+    {
+      "Id": "em_nmr_d1",
+      "Version": "1.0.1",
+      "DownloadUrl": "https://github.com/EmeraldDragon/DV-Emeralds-LMS-4F/releases/tag/NMR_D1_1,0,1"
+    }    
   ]
 
 }
